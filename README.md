@@ -1,5 +1,5 @@
 # Persistible
-# Helper for Persisting `Codable` classes to file and retrieving them
+#### Helper for Persisting `Codable` classes to file and retrieving them
 
 Create a model object that conforms to `Codable` and `Hashable` and give an
 appropriate `fileName` after conforming to `Persistible`
