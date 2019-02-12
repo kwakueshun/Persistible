@@ -78,3 +78,8 @@ usage.
         print(error.localizedDescription)
     }
 ```
+
+# Installation
+The easiest way to install it is by copying the following to your project:
+* Persistible.swift
+
